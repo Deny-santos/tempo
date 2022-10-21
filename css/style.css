@@ -43,6 +43,7 @@
     height: 100vh;
     flex-direction: column;
     width: 100%;
+    min-width: 100%;
 }
 
 
@@ -160,3 +161,18 @@
     border-top: 2px black solid;
     color: white;
 } */
+
+@media  (max-width: 500px) {
+    .container {
+        height: 100vh;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+    .form h3 {
+        margin-bottom: 1rem;
+        font-size: 2.0rem;
+        text-align: center;
+        text-justify: auto;
+    }
+}
