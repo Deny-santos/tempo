@@ -1,0 +1,10 @@
+fui em open weather pra ver os icones de tempo, pesquisei em fn f3 por icon > how tok get icons, especioneri o icone e colei o link
+
+fui em country flags api para as bandeiras br e la eles tem os formatos,
+se por nome de pais ou inial ou ate outras opções https://countryflagsapi.com/
+
+link de teste de funcionamento da api https://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=90a53212923b8e26b7ca25a09d241fad
+
+link dos icones de tempo https://openweathermap.org/weather-conditions#How-to-get-icon-URL
+
+na url do icine do tempo (se di ou noite, bolinha) mudei o fin e coloquei "icon" dinamicamente 
